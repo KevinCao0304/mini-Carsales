@@ -1,9 +1,9 @@
-Angular CLI: 9.0.7
+aAngular CLI: 9.0.7
 Node: 12.16.0
 OS: win32 x64
 Asp.net core 3.1
 Bootstrap 4.5.0
-11111
+11111asdf
 1:"mini-Carsales" folder 
 2:run command "dotnet run"
 3:http://localhost:5000
